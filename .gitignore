@@ -1,0 +1,8 @@
+BUILD/
+Release/
+Debug/
+src/include/
+*.xbs
+*.ncb
+*.suo
+screensaver.*.zip
